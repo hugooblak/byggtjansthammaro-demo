@@ -18,7 +18,6 @@ return array(
 		array( 'Vår nyinköpta lägenhet i Karlstad har fått en perfekt uppfräschning av Byggtjänst Hammarö i form av ny vägg i kök, nytt golv i vardagsrum, renovering av badrum mm. Och mera blir det när vi hunnit samla oss, för vi är verkligen nöjda med både kvalitet och servicenivå. Tack Sigge!', 'Stefan Olsson', 'för ett år sedan' ),
 		array( 'Mycket fint utfört arbete. Lättillgängliga och trevliga. Självgående snickare med öga för detaljer. Vi är väldigt nöjda att vi anlitade Byggtjänst Hammarö AB för trallbygge samt inbyggnad av spabad. Rekommenderas!', 'Oskar Wahlén', 'för 2 månader sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
+	'bild_hero'      => 'foto-5.jpg',
 	'ar_riktig'      => true,
 );
