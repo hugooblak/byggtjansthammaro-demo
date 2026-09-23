@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Byggtjänst Hammarö AB',
+	'bransch'        => 'Byggföretag',
 	'telefon'        => '072-006 85 30',
 	'telefon_tel'    => '+46720068530',
 	'ort'            => 'Skoghall',
